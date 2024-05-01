@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.goodcloud.xyz.ico",
     "slug": "good-cloud-website-asia",
     "status": "up",
-    "uptime": "10.39%",
-    "uptimeDay": "10.39%",
-    "uptimeWeek": "10.39%",
-    "uptimeMonth": "10.39%",
-    "uptimeYear": "10.39%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 798,
     "timeDay": 798,
     "timeWeek": 798,
     "timeMonth": 798,
     "timeYear": 798,
-    "dailyMinutesDown": {
-      "2024-05-01": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GoodCloud Website (EU)",
