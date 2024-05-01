@@ -16,7 +16,7 @@ sites:
     expectedStatusCodes:
       - 401
   - name: GoodCloud Website (Asia)
-    url: https://cloud.goodcloud.xyz
+    url: https://www.goodcloud.xyz
   - name: GoodCloud Website (EU)
     url: https://cloud-eu.goodcloud.xyz
   - name: GoodCloud Website (US)
