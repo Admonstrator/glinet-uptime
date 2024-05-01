@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.gl-inet.cn.ico",
     "slug": "gl-i-net-forum-china",
     "status": "up",
-    "uptime": "2.08%",
-    "uptimeDay": "2.08%",
-    "uptimeWeek": "2.08%",
-    "uptimeMonth": "2.08%",
-    "uptimeYear": "2.08%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1932,
     "timeDay": 1932,
     "timeWeek": 1932,
     "timeMonth": 1932,
     "timeYear": 1932,
-    "dailyMinutesDown": {
-      "2024-05-01": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
