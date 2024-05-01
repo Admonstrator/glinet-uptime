@@ -3,19 +3,53 @@ owner: admonstrator # Your GitHub organization or username, where this repositor
 repo: glinet-uptime # The name of this repository
 
 sites:
+  - name: GLDDNS DNS Server #1
+    check: "tcp-ping"
+    url: "ns1.glddns.com"
+    port: 53
+  - name: GLDDNS DNS Server #2
+    check: "tcp-ping"
+    url: "ns2.glddns.com"
+    port: 53
   - name: GL.iNet Website (Global)
     url: https://www.gl-inet.com
   - name: GL.iNet Forum (Global)
     url: https://forum.gl-inet.com
   - name: GL.iNet Forum (China)
     url: https://forum.gl-inet.cn
-
+  - name: GL.iNet Docs
+    url: https://docs.gl-inet.com
+  - name: GL.iNet Firmware Website
+    url: https://dl.gl-inet.com
+  - name: Firmware Update Server
+    url: https://fw.gl-inet.com
+  - name: GL.iNet Store (Global)
+    url: https://store.gl-inet.com
+  - name: GL.iNet Store (US)
+    url: https://store-us.gl-inet.com
+  - name: GL.iNet Store (EU)
+    url: https://store-eu.gl-inet.com
+  - name: GL.iNet Store (UK)
+    url: https://store-uk.gl-inet.com
+  - name: GL.iNet Store (CA)
+    url: https://store-ca.gl-inet.com
+  - name: GoodCloud Website (China)
+    url: https://www.goodcloud.xyz
+  - name: GoodCloud Website (EU)
+    url: https://cloud-eu.goodcloud.xyz
+  - name: GoodCloud Website (US)
+    url: https://cloud-us.goodcloud.xyz
+  - name: GLDDNS Update Service API
+    url: http:///monitoring:byadmon@ddns.glddns.com/nic/update
+    expectedStatusCodes:
+      - 401
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: glinet-uptime.admon.in.ua
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.gl-inet.com/logo.svg
   name: GL.iNet Status
   introTitle: "Is any GL.iNet service down?"
   introMessage: This status page shows the real-time status of GL.iNet services.
