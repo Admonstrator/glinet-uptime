@@ -3,14 +3,24 @@ owner: admonstrator # Your GitHub organization or username, where this repositor
 repo: glinet-uptime # The name of this repository
 
 sites:
-  - name: GLDDNS DNS Server #1
+  - name: GLDDNS Server (ns1.glddns.com)
     check: "tcp-ping"
     url: "ns1.glddns.com"
     port: 53
-  - name: GLDDNS DNS Server #2
+  - name: GLDDNS Server (ns2.glddns.com)
     check: "tcp-ping"
     url: "ns2.glddns.com"
     port: 53
+  - name: GLDDNS Update Service API
+    url: http:///monitoring:byadmon@ddns.glddns.com/nic/update
+    expectedStatusCodes:
+      - 401
+  - name: GoodCloud Website (Asia)
+    url: https://cloud.goodcloud.xyz
+  - name: GoodCloud Website (EU)
+    url: https://cloud-eu.goodcloud.xyz
+  - name: GoodCloud Website (US)
+    url: https://cloud-us.goodcloud.xyz
   - name: GL.iNet Website (Global)
     url: https://www.gl-inet.com
   - name: GL.iNet Forum (Global)
@@ -33,16 +43,6 @@ sites:
     url: https://store-uk.gl-inet.com
   - name: GL.iNet Store (CA)
     url: https://store-ca.gl-inet.com
-  - name: GoodCloud Website (China)
-    url: https://www.goodcloud.xyz
-  - name: GoodCloud Website (EU)
-    url: https://cloud-eu.goodcloud.xyz
-  - name: GoodCloud Website (US)
-    url: https://cloud-us.goodcloud.xyz
-  - name: GLDDNS Update Service API
-    url: http:///monitoring:byadmon@ddns.glddns.com/nic/update
-    expectedStatusCodes:
-      - 401
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -52,12 +52,14 @@ status-website:
   logoUrl: https://www.gl-inet.com/logo.svg
   name: GL.iNet Status
   introTitle: "Is any GL.iNet service down?"
-  introMessage: This status page shows the real-time status of GL.iNet services.
+  introMessage: This status page shows the real-time status of GL.iNet services. If you have any questions, please contact <a href="https://forum.gl-inet.com/u/admon/summary">Admon</a> in the GL.iNet Forum.
   navbar:
     - title: Status
       href: /
     - title: GL.iNet Forum
       href: https://forum.gl-inet.com
+    - title: GL.iNet Docs
+      href: https://docs.gl-inet.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
