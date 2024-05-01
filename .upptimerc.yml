@@ -8,7 +8,7 @@ sites:
   - name: GL.iNet Forum (Global)
     url: https://forum.gl-inet.com
   - name: GL.iNet Forum (China)
-    url: https://forum.glinet.cn
+    url: https://forum.gl-inet.cn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -16,14 +16,14 @@ status-website:
   cname: glinet-uptime.admon.in.ua
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: GL.iNet Status
+  introTitle: "Is any GL.iNet service down?"
+  introMessage: This status page shows the real-time status of GL.iNet services.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: GL.iNet Forum
+      href: https://forum.gl-inet.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
