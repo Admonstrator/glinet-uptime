@@ -68,10 +68,8 @@ status-website:
       href: https://forum.gl-inet.com
     - title: GL.iNet Docs
       href: https://docs.gl-inet.com
+  favicon: https://static.gl-inet.com/www/images/favicon.ico
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-status-website:
-  favicon: https://static.gl-inet.com/www/images/favicon.ico
-
 userAgent: Admonstrator
