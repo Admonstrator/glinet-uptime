@@ -7,10 +7,12 @@ sites:
     check: "tcp-ping"
     url: "ns1.glddns.com"
     port: 53
+    maxResponseTime: 300
   - name: GLDDNS Server (ns2.glddns.com)
     check: "tcp-ping"
     url: "ns2.glddns.com"
     port: 53
+    maxResponseTime: 300
   - name: GLDDNS Update Service API
     url: http:///monitoring:byadmon@ddns.glddns.com/nic/update
     expectedStatusCodes:
@@ -47,6 +49,8 @@ sites:
     url: https://store-uk.gl-inet.com
   - name: GL.iNet Store (CA)
     url: https://store-ca.gl-inet.com
+  - name: GL.iNet Blog (Global)
+    url: https://blog.gl-inet.com
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -67,3 +71,7 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+status-website:
+  favicon: https://static.gl-inet.com/www/images/favicon.ico
+
+userAgent: Admonstrator
