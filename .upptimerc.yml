@@ -21,8 +21,12 @@ sites:
     url: https://cloud-eu.goodcloud.xyz
   - name: GoodCloud Website (US)
     url: https://cloud-us.goodcloud.xyz
+  - name: GoodCloud Website (China)
+    url: https://cloud.gl-inet.cn
   - name: GL.iNet Website (Global)
     url: https://www.gl-inet.com
+  - name: GL.iNet Website (China)
+    url: https://www.gl-inet.cn
   - name: GL.iNet Forum (Global)
     url: https://forum.gl-inet.com
   - name: GL.iNet Forum (China)
