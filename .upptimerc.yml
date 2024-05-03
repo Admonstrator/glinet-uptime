@@ -1,6 +1,8 @@
 # Change these first
 owner: admonstrator # Your GitHub organization or username, where this repository lives
 repo: glinet-uptime # The name of this repository
+i18n:
+  - footer: "If you experience problems with this status page, you can find a <a href="https://github.com/Admonstrator/glinet-uptime/blob/master/README.md">static version of this page here</a>
 
 sites:
   - name: GLDDNS Server (ns1.glddns.com)
@@ -76,5 +78,4 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 userAgent: Admonstrator
 
-i18n:
-  footer: "If you experience problems with this status page, you can find a <a href="https://github.com/Admonstrator/glinet-uptime/blob/master/README.md">static version of this page here</a>."
+."
