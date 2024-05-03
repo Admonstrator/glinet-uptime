@@ -70,10 +70,11 @@ status-website:
     - title: GL.iNet Docs
       href: https://docs.gl-inet.com
   favicon: https://static.gl-inet.com/www/images/favicon.ico
-  i18n:
-    footer: "If you experience problems with this status page, you can find a <a href="https://github.com/Admonstrator/glinet-uptime/blob/master/README.md">static version of this page here</a>."
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 userAgent: Admonstrator
 
+i18n:
+  footer: "If you experience problems with this status page, you can find a <a href="https://github.com/Admonstrator/glinet-uptime/blob/master/README.md">static version of this page here</a>."
