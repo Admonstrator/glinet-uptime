@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "glddns-server-ns2-glddns-com",
     "status": "up",
-    "uptime": "99.12%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "99.12%",
+    "uptime": "99.32%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 364,
-    "timeDay": 490,
+    "timeDay": 496,
     "timeWeek": 364,
     "timeMonth": 364,
     "timeYear": 364,
     "dailyMinutesDown": {
-      "2024-05-05": 28,
+      "2024-05-05": 22,
       "2024-05-04": 2,
       "2024-05-03": 18
     }
@@ -152,9 +152,9 @@
     "url": "https://www.gl-inet.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.gl-inet.cn.ico",
     "slug": "gl-i-net-website-china",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -163,7 +163,9 @@
     "timeWeek": 2352,
     "timeMonth": 2352,
     "timeYear": 2352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-05": 0
+    }
   },
   {
     "name": "GL.iNet Forum (Global)",
