@@ -154,19 +154,19 @@
     "url": "https://www.gl-inet.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.gl-inet.cn.ico",
     "slug": "gl-i-net-website-china",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2341,
-    "timeDay": 2272,
-    "timeWeek": 2341,
-    "timeMonth": 2341,
-    "timeYear": 2341,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 2317,
+    "timeDay": 2168,
+    "timeWeek": 2317,
+    "timeMonth": 2317,
+    "timeYear": 2317,
     "dailyMinutesDown": {
-      "2024-05-06": 0
+      "2024-05-06": 9
     }
   },
   {
