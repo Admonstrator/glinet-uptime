@@ -63,7 +63,7 @@ status-website:
   logoUrl: https://www.gl-inet.com/logo.svg
   name: GL.iNet Status
   introTitle: "Is any GL.iNet service down?"
-  introMessage: This status page shows the real-time status of GL.iNet services. If you have any questions, please contact <a href="https://forum.gl-inet.com/u/admon/summary">Admon</a> in the GL.iNet Forum.
+  introMessage: This inofficial status page shows the real-time status of GL.iNet services. If you have any questions, please contact <a href="https://forum.gl-inet.com/u/admon/summary">Admon</a> in the GL.iNet Forum.
   navbar:
     - title: Status
       href: /
