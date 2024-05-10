@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 79,
-    "timeDay": 123,
-    "timeWeek": 83,
+    "timeDay": 85,
+    "timeWeek": 94,
     "timeMonth": 79,
     "timeYear": 79,
     "dailyMinutesDown": {}
@@ -23,14 +23,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "glddns-server-ns2-glddns-com",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 373,
-    "timeDay": 406,
-    "timeWeek": 396,
+    "timeDay": 428,
+    "timeWeek": 404,
     "timeMonth": 373,
     "timeYear": 373,
     "dailyMinutesDown": {
@@ -52,7 +52,7 @@
     "uptimeYear": "100.00%",
     "time": 191,
     "timeDay": 83,
-    "timeWeek": 114,
+    "timeWeek": 115,
     "timeMonth": 191,
     "timeYear": 191,
     "dailyMinutesDown": {}
@@ -70,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 844,
     "timeDay": 1018,
-    "timeWeek": 864,
+    "timeWeek": 808,
     "timeMonth": 844,
     "timeYear": 844,
     "dailyMinutesDown": {}
@@ -88,7 +88,7 @@
     "uptimeYear": "100.00%",
     "time": 635,
     "timeDay": 605,
-    "timeWeek": 647,
+    "timeWeek": 664,
     "timeMonth": 635,
     "timeYear": 635,
     "dailyMinutesDown": {}
@@ -99,14 +99,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud-us.goodcloud.xyz.ico",
     "slug": "good-cloud-website-us",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
     "time": 358,
     "timeDay": 330,
-    "timeWeek": 373,
+    "timeWeek": 384,
     "timeMonth": 358,
     "timeYear": 358,
     "dailyMinutesDown": {
@@ -126,7 +126,7 @@
     "uptimeYear": "100.00%",
     "time": 1881,
     "timeDay": 2017,
-    "timeWeek": 1921,
+    "timeWeek": 1872,
     "timeMonth": 1881,
     "timeYear": 1881,
     "dailyMinutesDown": {}
@@ -144,7 +144,7 @@
     "uptimeYear": "100.00%",
     "time": 466,
     "timeDay": 628,
-    "timeWeek": 444,
+    "timeWeek": 438,
     "timeMonth": 466,
     "timeYear": 466,
     "dailyMinutesDown": {}
@@ -154,18 +154,20 @@
     "url": "https://www.gl-inet.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.gl-inet.cn.ico",
     "slug": "gl-i-net-website-china",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2239,
     "timeDay": 2093,
-    "timeWeek": 2275,
+    "timeWeek": 2034,
     "timeMonth": 2239,
     "timeYear": 2239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-10": 0
+    }
   },
   {
     "name": "GL.iNet Forum (Global)",
@@ -180,7 +182,7 @@
     "uptimeYear": "100.00%",
     "time": 461,
     "timeDay": 482,
-    "timeWeek": 445,
+    "timeWeek": 437,
     "timeMonth": 461,
     "timeYear": 461,
     "dailyMinutesDown": {}
@@ -198,7 +200,7 @@
     "uptimeYear": "100.00%",
     "time": 1786,
     "timeDay": 2016,
-    "timeWeek": 1692,
+    "timeWeek": 1706,
     "timeMonth": 1786,
     "timeYear": 1786,
     "dailyMinutesDown": {}
@@ -216,7 +218,7 @@
     "uptimeYear": "100.00%",
     "time": 236,
     "timeDay": 242,
-    "timeWeek": 235,
+    "timeWeek": 236,
     "timeMonth": 236,
     "timeYear": 236,
     "dailyMinutesDown": {}
@@ -234,7 +236,7 @@
     "uptimeYear": "100.00%",
     "time": 371,
     "timeDay": 151,
-    "timeWeek": 474,
+    "timeWeek": 221,
     "timeMonth": 371,
     "timeYear": 371,
     "dailyMinutesDown": {}
@@ -252,7 +254,7 @@
     "uptimeYear": "100.00%",
     "time": 248,
     "timeDay": 157,
-    "timeWeek": 242,
+    "timeWeek": 240,
     "timeMonth": 248,
     "timeYear": 248,
     "dailyMinutesDown": {}
@@ -270,7 +272,7 @@
     "uptimeYear": "100.00%",
     "time": 524,
     "timeDay": 748,
-    "timeWeek": 299,
+    "timeWeek": 333,
     "timeMonth": 524,
     "timeYear": 524,
     "dailyMinutesDown": {}
@@ -288,7 +290,7 @@
     "uptimeYear": "100.00%",
     "time": 320,
     "timeDay": 209,
-    "timeWeek": 334,
+    "timeWeek": 319,
     "timeMonth": 320,
     "timeYear": 320,
     "dailyMinutesDown": {}
@@ -306,7 +308,7 @@
     "uptimeYear": "100.00%",
     "time": 377,
     "timeDay": 271,
-    "timeWeek": 277,
+    "timeWeek": 253,
     "timeMonth": 377,
     "timeYear": 377,
     "dailyMinutesDown": {}
@@ -324,7 +326,7 @@
     "uptimeYear": "100.00%",
     "time": 305,
     "timeDay": 219,
-    "timeWeek": 258,
+    "timeWeek": 246,
     "timeMonth": 305,
     "timeYear": 305,
     "dailyMinutesDown": {}
@@ -342,7 +344,7 @@
     "uptimeYear": "100.00%",
     "time": 565,
     "timeDay": 208,
-    "timeWeek": 271,
+    "timeWeek": 258,
     "timeMonth": 565,
     "timeYear": 565,
     "dailyMinutesDown": {}
@@ -360,7 +362,7 @@
     "uptimeYear": "100.00%",
     "time": 263,
     "timeDay": 177,
-    "timeWeek": 251,
+    "timeWeek": 250,
     "timeMonth": 263,
     "timeYear": 263,
     "dailyMinutesDown": {}
