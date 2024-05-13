@@ -154,9 +154,9 @@
     "url": "https://www.gl-inet.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.gl-inet.cn.ico",
     "slug": "gl-i-net-website-china",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "98.17%",
+    "uptimeDay": "98.16%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
@@ -166,6 +166,7 @@
     "timeMonth": 2246,
     "timeYear": 2246,
     "dailyMinutesDown": {
+      "2024-05-13": 0,
       "2024-05-12": 26
     }
   },
