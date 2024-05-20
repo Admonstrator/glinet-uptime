@@ -45,19 +45,19 @@
     "url": "http:///monitoring:byadmon@ddns.glddns.com/nic/update",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "glddns-update-service-api",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "96.64%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 179,
-    "timeDay": 205,
-    "timeWeek": 164,
-    "timeMonth": 179,
-    "timeYear": 179,
+    "status": "degraded",
+    "uptime": "99.80%",
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 182,
+    "timeDay": 224,
+    "timeWeek": 177,
+    "timeMonth": 182,
+    "timeYear": 182,
     "dailyMinutesDown": {
-      "2024-05-20": 48
+      "2024-05-20": 55
     }
   },
   {
