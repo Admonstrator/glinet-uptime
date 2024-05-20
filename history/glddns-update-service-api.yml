@@ -1,7 +1,7 @@
 url: http:///monitoring:byadmon@ddns.glddns.com/nic/update
-status: down
+status: degraded
 code: 200
-responseTime: 242
-lastUpdated: 2024-05-20T11:44:39.780Z
+responseTime: 415
+lastUpdated: 2024-05-20T11:57:28.594Z
 startTime: 2024-05-01T10:28:29.914Z
 generator: Upptime <https://github.com/upptime/upptime>
