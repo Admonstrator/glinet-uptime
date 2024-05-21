@@ -46,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "glddns-update-service-api",
     "status": "degraded",
-    "uptime": "96.73%",
-    "uptimeDay": "36.08%",
-    "uptimeWeek": "90.87%",
-    "uptimeMonth": "96.73%",
-    "uptimeYear": "96.73%",
+    "uptime": "96.69%",
+    "uptimeDay": "35.28%",
+    "uptimeWeek": "90.75%",
+    "uptimeMonth": "96.69%",
+    "uptimeYear": "96.69%",
     "time": 223,
     "timeDay": 249,
     "timeWeek": 237,
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2024-05-20": 920
+      "2024-05-21": 10,
+      "2024-05-20": 922
     }
   },
   {
