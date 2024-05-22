@@ -45,19 +45,19 @@
     "url": "http:///monitoring:byadmon@ddns.glddns.com/nic/update",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "glddns-update-service-api",
-    "status": "down",
-    "uptime": "91.54%",
+    "status": "degraded",
+    "uptime": "91.49%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.02%",
-    "uptimeMonth": "91.54%",
-    "uptimeYear": "91.54%",
+    "uptimeWeek": "74.86%",
+    "uptimeMonth": "91.49%",
+    "uptimeYear": "91.49%",
     "time": 241,
-    "timeDay": 260,
-    "timeWeek": 251,
+    "timeDay": 262,
+    "timeWeek": 252,
     "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-05-22": 155,
+      "2024-05-22": 171,
       "2024-05-21": 1440,
       "2024-05-20": 922
     }
@@ -160,9 +160,9 @@
     "url": "https://www.gl-inet.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.gl-inet.cn.ico",
     "slug": "gl-i-net-website-china",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
@@ -172,6 +172,7 @@
     "timeMonth": 2219,
     "timeYear": 2219,
     "dailyMinutesDown": {
+      "2024-05-22": 0,
       "2024-05-13": 29,
       "2024-05-12": 26
     }
