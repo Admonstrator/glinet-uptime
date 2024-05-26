@@ -19,6 +19,7 @@ sites:
     url: http:///monitoring:byadmon@ddns.glddns.com/nic/update
     expectedStatusCodes:
       - 401
+      - 200
     maxResponseTime: 250
   - name: GoodCloud Website (Asia)
     url: https://www.goodcloud.xyz
