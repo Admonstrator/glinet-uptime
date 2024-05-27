@@ -46,13 +46,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "glddns-update-service-api",
     "status": "up",
-    "uptime": "75.50%",
-    "uptimeDay": "38.31%",
+    "uptime": "75.62%",
+    "uptimeDay": "51.15%",
     "uptimeWeek": "10.51%",
-    "uptimeMonth": "75.50%",
-    "uptimeYear": "75.50%",
+    "uptimeMonth": "75.62%",
+    "uptimeYear": "75.62%",
     "time": 245,
-    "timeDay": 240,
+    "timeDay": 242,
     "timeWeek": 250,
     "timeMonth": 245,
     "timeYear": 245,
@@ -71,9 +71,9 @@
     "url": "https://www.goodcloud.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.goodcloud.xyz.ico",
     "slug": "good-cloud-website-asia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -82,7 +82,9 @@
     "timeWeek": 867,
     "timeMonth": 838,
     "timeYear": 838,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-27": 0
+    }
   },
   {
     "name": "GoodCloud Website (EU)",
@@ -107,9 +109,9 @@
     "url": "https://cloud-us.goodcloud.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/cloud-us.goodcloud.xyz.ico",
     "slug": "good-cloud-website-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
@@ -119,6 +121,7 @@
     "timeMonth": 369,
     "timeYear": 369,
     "dailyMinutesDown": {
+      "2024-05-27": 0,
       "2024-05-13": 27,
       "2024-05-06": 56
     }
