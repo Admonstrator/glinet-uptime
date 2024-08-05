@@ -4,19 +4,19 @@
     "url": "ns1.glddns.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "glddns-server-ns1-glddns-com",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 71,
-    "timeDay": 186,
-    "timeWeek": 103,
-    "timeMonth": 94,
-    "timeYear": 71,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 70,
+    "timeDay": 131,
+    "timeWeek": 94,
+    "timeMonth": 86,
+    "timeYear": 70,
     "dailyMinutesDown": {
-      "2024-08-05": 0
+      "2024-08-05": 8
     }
   },
   {
