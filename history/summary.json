@@ -13,7 +13,7 @@
     "time": 70,
     "timeDay": 85,
     "timeWeek": 70,
-    "timeMonth": 73,
+    "timeMonth": 75,
     "timeYear": 70,
     "dailyMinutesDown": {}
   },
@@ -22,18 +22,19 @@
     "url": "ns2.glddns.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "glddns-server-ns2-glddns-com",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.93%",
     "time": 390,
-    "timeDay": 287,
-    "timeWeek": 289,
-    "timeMonth": 379,
+    "timeDay": 366,
+    "timeWeek": 305,
+    "timeMonth": 381,
     "timeYear": 390,
     "dailyMinutesDown": {
+      "2024-08-29": 0,
       "2024-08-05": 31,
       "2024-08-03": 31,
       "2024-05-18": 20,
@@ -48,15 +49,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "glddns-update-service-api",
     "status": "up",
-    "uptime": "94.75%",
+    "uptime": "94.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "94.75%",
+    "uptimeYear": "94.76%",
     "time": 236,
     "timeDay": 87,
     "timeWeek": 157,
-    "timeMonth": 134,
+    "timeMonth": 132,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2024-08-03": 31,
@@ -83,7 +84,7 @@
     "time": 885,
     "timeDay": 726,
     "timeWeek": 1472,
-    "timeMonth": 979,
+    "timeMonth": 982,
     "timeYear": 885,
     "dailyMinutesDown": {
       "2024-05-27": 26
@@ -103,7 +104,7 @@
     "time": 673,
     "timeDay": 566,
     "timeWeek": 650,
-    "timeMonth": 681,
+    "timeMonth": 678,
     "timeYear": 673,
     "dailyMinutesDown": {}
   },
@@ -121,7 +122,7 @@
     "time": 371,
     "timeDay": 298,
     "timeWeek": 354,
-    "timeMonth": 370,
+    "timeMonth": 367,
     "timeYear": 371,
     "dailyMinutesDown": {
       "2024-05-27": 26,
@@ -143,7 +144,7 @@
     "time": 1709,
     "timeDay": 1281,
     "timeWeek": 1571,
-    "timeMonth": 1346,
+    "timeMonth": 1356,
     "timeYear": 1709,
     "dailyMinutesDown": {
       "2024-06-11": 104,
@@ -164,7 +165,7 @@
     "time": 383,
     "timeDay": 213,
     "timeWeek": 271,
-    "timeMonth": 279,
+    "timeMonth": 280,
     "timeYear": 383,
     "dailyMinutesDown": {}
   },
@@ -182,7 +183,7 @@
     "time": 2271,
     "timeDay": 2248,
     "timeWeek": 2509,
-    "timeMonth": 2409,
+    "timeMonth": 2404,
     "timeYear": 2271,
     "dailyMinutesDown": {
       "2024-08-18": 21,
@@ -198,18 +199,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.gl-inet.com.ico",
     "slug": "gl-i-net-forum-global",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 436,
     "timeDay": 442,
     "timeWeek": 456,
-    "timeMonth": 455,
+    "timeMonth": 460,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2024-08-29": 10,
       "2024-05-14": 22
     }
   },
@@ -227,7 +227,7 @@
     "time": 1837,
     "timeDay": 1943,
     "timeWeek": 1846,
-    "timeMonth": 2037,
+    "timeMonth": 2057,
     "timeYear": 1837,
     "dailyMinutesDown": {}
   },
@@ -245,7 +245,7 @@
     "time": 267,
     "timeDay": 503,
     "timeWeek": 402,
-    "timeMonth": 329,
+    "timeMonth": 335,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2024-05-31": 18
@@ -265,7 +265,7 @@
     "time": 268,
     "timeDay": 201,
     "timeWeek": 305,
-    "timeMonth": 262,
+    "timeMonth": 263,
     "timeYear": 268,
     "dailyMinutesDown": {}
   },
@@ -283,7 +283,7 @@
     "time": 261,
     "timeDay": 216,
     "timeWeek": 248,
-    "timeMonth": 280,
+    "timeMonth": 279,
     "timeYear": 261,
     "dailyMinutesDown": {}
   },
@@ -301,7 +301,7 @@
     "time": 394,
     "timeDay": 213,
     "timeWeek": 402,
-    "timeMonth": 355,
+    "timeMonth": 337,
     "timeYear": 394,
     "dailyMinutesDown": {}
   },
@@ -319,7 +319,7 @@
     "time": 443,
     "timeDay": 649,
     "timeWeek": 462,
-    "timeMonth": 570,
+    "timeMonth": 560,
     "timeYear": 443,
     "dailyMinutesDown": {}
   },
@@ -337,7 +337,7 @@
     "time": 402,
     "timeDay": 196,
     "timeWeek": 530,
-    "timeMonth": 486,
+    "timeMonth": 479,
     "timeYear": 402,
     "dailyMinutesDown": {}
   },
@@ -355,7 +355,7 @@
     "time": 348,
     "timeDay": 420,
     "timeWeek": 466,
-    "timeMonth": 431,
+    "timeMonth": 410,
     "timeYear": 348,
     "dailyMinutesDown": {}
   },
@@ -373,7 +373,7 @@
     "time": 441,
     "timeDay": 206,
     "timeWeek": 504,
-    "timeMonth": 445,
+    "timeMonth": 425,
     "timeYear": 441,
     "dailyMinutesDown": {}
   },
@@ -391,7 +391,7 @@
     "time": 287,
     "timeDay": 162,
     "timeWeek": 221,
-    "timeMonth": 259,
+    "timeMonth": 252,
     "timeYear": 287,
     "dailyMinutesDown": {}
   }
