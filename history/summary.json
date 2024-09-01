@@ -291,19 +291,19 @@
     "url": "https://store.gl-inet.com",
     "icon": "https://icons.duckduckgo.com/ip3/store.gl-inet.com.ico",
     "slug": "gl-i-net-store-global",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 396,
-    "timeDay": 229,
-    "timeWeek": 393,
-    "timeMonth": 362,
-    "timeYear": 396,
+    "time": 395,
+    "timeDay": 231,
+    "timeWeek": 378,
+    "timeMonth": 359,
+    "timeYear": 395,
     "dailyMinutesDown": {
-      "2024-09-01": 0
+      "2024-09-01": 7
     }
   },
   {
@@ -311,19 +311,19 @@
     "url": "https://store-us.gl-inet.com",
     "icon": "https://icons.duckduckgo.com/ip3/store-us.gl-inet.com.ico",
     "slug": "gl-i-net-store-us",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 434,
-    "timeDay": 189,
-    "timeWeek": 400,
-    "timeMonth": 527,
-    "timeYear": 434,
+    "time": 432,
+    "timeDay": 197,
+    "timeWeek": 383,
+    "timeMonth": 518,
+    "timeYear": 432,
     "dailyMinutesDown": {
-      "2024-09-01": 0
+      "2024-09-01": 7
     }
   },
   {
@@ -331,19 +331,19 @@
     "url": "https://store-eu.gl-inet.com",
     "icon": "https://icons.duckduckgo.com/ip3/store-eu.gl-inet.com.ico",
     "slug": "gl-i-net-store-eu",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 392,
-    "timeDay": 219,
-    "timeWeek": 348,
-    "timeMonth": 454,
-    "timeYear": 392,
+    "time": 391,
+    "timeDay": 257,
+    "timeWeek": 347,
+    "timeMonth": 451,
+    "timeYear": 391,
     "dailyMinutesDown": {
-      "2024-09-01": 0
+      "2024-09-01": 7
     }
   },
   {
