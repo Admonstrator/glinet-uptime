@@ -293,19 +293,19 @@
     "url": "https://store.gl-inet.com",
     "icon": "https://icons.duckduckgo.com/ip3/store.gl-inet.com.ico",
     "slug": "gl-i-net-store-global",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 410,
-    "timeWeek": 301,
-    "timeMonth": 337,
-    "timeYear": 383,
+    "time": 392,
+    "timeDay": 741,
+    "timeWeek": 423,
+    "timeMonth": 365,
+    "timeYear": 392,
     "dailyMinutesDown": {
-      "2024-09-13": 0
+      "2024-09-13": 7
     }
   },
   {
@@ -313,19 +313,19 @@
     "url": "https://store-us.gl-inet.com",
     "icon": "https://icons.duckduckgo.com/ip3/store-us.gl-inet.com.ico",
     "slug": "gl-i-net-store-us",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 415,
-    "timeDay": 173,
-    "timeWeek": 298,
-    "timeMonth": 355,
-    "timeYear": 415,
+    "time": 414,
+    "timeDay": 218,
+    "timeWeek": 299,
+    "timeMonth": 354,
+    "timeYear": 414,
     "dailyMinutesDown": {
-      "2024-09-13": 0
+      "2024-09-13": 7
     }
   },
   {
