@@ -6,12 +6,12 @@ i18n:
 
 sites:
   - name: GLDDNS Server (ns1.glddns.com)
-    check: "tcp-ping"
+    check: "udp-ping"
     url: "ns1.glddns.com"
     port: 53
     maxResponseTime: 250
   - name: GLDDNS Server (ns2.glddns.com)
-    check: "tcp-ping"
+    check: "udp-ping"
     url: "ns2.glddns.com"
     port: 53
     maxResponseTime: 300
