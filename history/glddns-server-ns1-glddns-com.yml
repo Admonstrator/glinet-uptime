@@ -1,7 +1,7 @@
 url: ns1.glddns.com
-status: degraded
+status: up
 code: 200
-responseTime: 1039
-lastUpdated: 2024-10-19T20:34:47.092Z
+responseTime: 71
+lastUpdated: 2024-10-19T20:42:58.485Z
 startTime: 2024-10-01T18:00:52.573Z
 generator: Upptime <https://github.com/upptime/upptime>
