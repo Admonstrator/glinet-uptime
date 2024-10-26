@@ -29,6 +29,8 @@ sites:
     url: https://cloud-us.goodcloud.xyz
   - name: GoodCloud Website (China)
     url: https://cloud.gl-inet.cn
+  - name: AstroWarp Website
+    url: https://my.astrowarp.net
   - name: GL.iNet Website (Global)
     url: https://www.gl-inet.com
   - name: GL.iNet Website (China)
