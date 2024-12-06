@@ -63,7 +63,6 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: glinet-status.admon.in.ua
   # baseUrl: /your-repo-name
-  logoUrl: https://www.gl-inet.com/logo.svg
   name: GL.iNet Status
   introTitle: "Is any GL.iNet service down?"
   introMessage: This inofficial status page shows the real-time status of GL.iNet services. If you have any questions, please contact <a href="https://forum.gl-inet.com/u/admon/summary">Admon</a> in the GL.iNet Forum.
@@ -74,7 +73,6 @@ status-website:
       href: https://forum.gl-inet.com
     - title: GL.iNet Docs
       href: https://docs.gl-inet.com
-  favicon: https://static.gl-inet.com/www/images/favicon.ico
 
 
 # Upptime also supports notifications, assigning issues, and more
