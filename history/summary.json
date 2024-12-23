@@ -4,9 +4,9 @@
     "url": "ns1.glddns.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "glddns-server-ns1-glddns-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "99.62%",
@@ -16,6 +16,7 @@
     "timeMonth": 147,
     "timeYear": 111,
     "dailyMinutesDown": {
+      "2024-12-23": 0,
       "2024-12-06": 447
     }
   },
@@ -51,11 +52,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "glddns-update-service-api",
     "status": "up",
-    "uptime": "92.03%",
+    "uptime": "92.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.11%",
-    "uptimeYear": "92.03%",
+    "uptimeYear": "92.04%",
     "time": 214,
     "timeDay": 85,
     "timeWeek": 94,
