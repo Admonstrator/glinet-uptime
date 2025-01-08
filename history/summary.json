@@ -51,11 +51,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "glddns-update-service-api",
     "status": "up",
-    "uptime": "93.31%",
+    "uptime": "93.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "93.31%",
+    "uptimeYear": "93.33%",
     "time": 212,
     "timeDay": 85,
     "timeWeek": 110,
@@ -79,10 +79,10 @@
     "url": "https://www.goodcloud.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.goodcloud.xyz.ico",
     "slug": "good-cloud-website-asia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 853,
@@ -91,6 +91,7 @@
     "timeMonth": 819,
     "timeYear": 853,
     "dailyMinutesDown": {
+      "2025-01-08": 1,
       "2024-05-27": 26
     }
   },
@@ -99,10 +100,10 @@
     "url": "https://cloud-eu.goodcloud.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/cloud-eu.goodcloud.xyz.ico",
     "slug": "good-cloud-website-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 774,
@@ -111,6 +112,7 @@
     "timeMonth": 807,
     "timeYear": 774,
     "dailyMinutesDown": {
+      "2025-01-08": 1,
       "2024-09-07": 155
     }
   },
@@ -119,9 +121,9 @@
     "url": "https://cloud-us.goodcloud.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/cloud-us.goodcloud.xyz.ico",
     "slug": "good-cloud-website-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -131,6 +133,7 @@
     "timeMonth": 300,
     "timeYear": 343,
     "dailyMinutesDown": {
+      "2025-01-08": 0,
       "2024-05-27": 26,
       "2024-05-13": 27,
       "2024-05-06": 56
