@@ -406,19 +406,19 @@
     "url": "https://store-ca.gl-inet.com",
     "icon": "https://icons.duckduckgo.com/ip3/store-ca.gl-inet.com.ico",
     "slug": "gl-i-net-store-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 406,
-    "timeDay": 232,
-    "timeWeek": 297,
-    "timeMonth": 318,
-    "timeYear": 406,
+    "time": 405,
+    "timeDay": 240,
+    "timeWeek": 294,
+    "timeMonth": 316,
+    "timeYear": 405,
     "dailyMinutesDown": {
-      "2025-02-27": 1
+      "2025-02-27": 7
     }
   },
   {
