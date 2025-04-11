@@ -21,12 +21,8 @@ sites:
       - 401
       - 200
     maxResponseTime: 250
-  - name: GoodCloud Website (Asia)
+  - name: GoodCloud Website (Global)
     url: https://www.goodcloud.xyz
-  - name: GoodCloud Website (EU)
-    url: https://cloud-eu.goodcloud.xyz
-  - name: GoodCloud Website (US)
-    url: https://cloud-us.goodcloud.xyz
   - name: GoodCloud Website (China)
     url: https://cloud.gl-inet.cn
   - name: AstroWarp Website
