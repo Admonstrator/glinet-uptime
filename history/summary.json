@@ -6,9 +6,9 @@
     "slug": "glddns-server-ns1-glddns-com",
     "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "97.14%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.62%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.82%",
     "time": 108,
     "timeDay": 108,
@@ -16,7 +16,7 @@
     "timeMonth": 105,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2025-04-11": 41,
+      "2025-04-11": 49,
       "2024-12-06": 447
     }
   },
@@ -25,9 +25,9 @@
     "url": "ns2.glddns.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "glddns-server-ns2-glddns-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "97.57%",
+    "uptimeDay": "97.55%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.78%",
@@ -105,8 +105,8 @@
     "status": "down",
     "uptime": "99.62%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.88%",
-    "uptimeMonth": "96.06%",
+    "uptimeWeek": "82.81%",
+    "uptimeMonth": "96.04%",
     "uptimeYear": "99.62%",
     "time": 814,
     "timeDay": 690,
@@ -114,7 +114,7 @@
     "timeMonth": 824,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2025-04-11": 693,
+      "2025-04-11": 700,
       "2025-04-10": 1033,
       "2024-09-07": 155
     }
@@ -127,8 +127,8 @@
     "status": "down",
     "uptime": "99.63%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.88%",
-    "uptimeMonth": "96.06%",
+    "uptimeWeek": "82.81%",
+    "uptimeMonth": "96.04%",
     "uptimeYear": "99.63%",
     "time": 344,
     "timeDay": 724,
@@ -136,7 +136,7 @@
     "timeMonth": 355,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2025-04-11": 693,
+      "2025-04-11": 700,
       "2025-04-10": 1033,
       "2024-05-27": 26,
       "2024-05-13": 27,
