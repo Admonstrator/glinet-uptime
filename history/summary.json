@@ -330,19 +330,19 @@
     "url": "https://store-eu.gl-inet.com",
     "icon": "https://icons.duckduckgo.com/ip3/store-eu.gl-inet.com.ico",
     "slug": "gl-i-net-store-eu",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 449,
-    "timeDay": 451,
-    "timeWeek": 404,
-    "timeMonth": 455,
+    "timeDay": 429,
+    "timeWeek": 398,
+    "timeMonth": 452,
     "timeYear": 449,
     "dailyMinutesDown": {
-      "2025-04-12": 0
+      "2025-04-12": 7
     }
   },
   {
