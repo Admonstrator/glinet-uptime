@@ -53,12 +53,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.74%",
+    "uptimeYear": "98.84%",
     "time": 182,
     "timeDay": 86,
     "timeWeek": 117,
     "timeMonth": 131,
-    "timeYear": 167,
+    "timeYear": 165,
     "dailyMinutesDown": {
       "2025-04-11": 50,
       "2024-12-31": 19,
@@ -287,10 +287,10 @@
     "url": "https://store.gl-inet.com",
     "icon": "https://icons.duckduckgo.com/ip3/store.gl-inet.com.ico",
     "slug": "gl-i-net-store-global",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 405,
@@ -298,17 +298,19 @@
     "timeWeek": 694,
     "timeMonth": 516,
     "timeYear": 400,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-24": 2
+    }
   },
   {
     "name": "GL.iNet Store (US)",
     "url": "https://store-us.gl-inet.com",
     "icon": "https://icons.duckduckgo.com/ip3/store-us.gl-inet.com.ico",
     "slug": "gl-i-net-store-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 492,
@@ -316,17 +318,19 @@
     "timeWeek": 468,
     "timeMonth": 585,
     "timeYear": 510,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-24": 1
+    }
   },
   {
     "name": "GL.iNet Store (EU)",
     "url": "https://store-eu.gl-inet.com",
     "icon": "https://icons.duckduckgo.com/ip3/store-eu.gl-inet.com.ico",
     "slug": "gl-i-net-store-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 460,
@@ -334,17 +338,19 @@
     "timeWeek": 483,
     "timeMonth": 471,
     "timeYear": 471,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-24": 1
+    }
   },
   {
     "name": "GL.iNet Store (UK)",
     "url": "https://store-uk.gl-inet.com",
     "icon": "https://icons.duckduckgo.com/ip3/store-uk.gl-inet.com.ico",
     "slug": "gl-i-net-store-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 387,
@@ -352,16 +358,18 @@
     "timeWeek": 440,
     "timeMonth": 479,
     "timeYear": 397,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-24": 1
+    }
   },
   {
     "name": "GL.iNet Store (CA)",
     "url": "https://store-ca.gl-inet.com",
     "icon": "https://icons.duckduckgo.com/ip3/store-ca.gl-inet.com.ico",
     "slug": "gl-i-net-store-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -370,7 +378,9 @@
     "timeWeek": 413,
     "timeMonth": 387,
     "timeYear": 392,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-24": 0
+    }
   },
   {
     "name": "GL.iNet Blog (Global)",
